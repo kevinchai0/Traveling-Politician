@@ -10,6 +10,5 @@ This problem is based on the "Traveling Salesman Problem", which is a well-known
 
 https://en.wikipedia.org/wiki/Travelling_salesman_problem
 
-# How to use
-
+# Guide
 Calling run() will prompt you to input a numerical value for how many states you want to visit. You will be then asked to input the capitlized state abbreviation for a state you want to visit one at a time. The program will output the shortest overall path that starts at Iowa, visits all the states you input, and ends at D.C.
